@@ -1,0 +1,14 @@
+ai_detector.py
+# ai_detector.py
+
+def compare_images(before, after):
+    """
+    Simulates an AI model comparing two images.
+    This is a placeholder module for SnapKeep.
+    """
+    print(f"Comparing {before} to {after}...")
+    print("Detected: surface wear, discoloration, minor rust.")
+    return ["wear", "discoloration", "rust"]
+
+if __name__ == "__main__":
+    compare_images("before.jpg", "after.jpg")
