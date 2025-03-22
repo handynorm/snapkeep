@@ -1,2 +1,2 @@
 # snapkeep
-mobile AI app for visuaally tracking maintenance 🐞🤠🌪️
+mobile AI app for visually tracking maintenance 🐞🤠🌪️
